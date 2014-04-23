@@ -1,0 +1,11 @@
+{
+    "name": "exploding-file",
+    "description": "For keeping path structures simple, except when they're not.",
+    "version": "0.0.1",
+    "private": false,
+    "author": "Adrian Edworthy <hello@adrianedworthy.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adrianedworthy/exploding-file.git"
+    }
+}
