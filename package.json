@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "private": false,
   "author": "Adrian Edworthy <hello@adrianedworthy.com>",
+  "contributors": [
+    {"name":"Drew Fyock", "mail": "drew@steelbisondev.com"}
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/adrianedworthy/exploding-file.git"
