@@ -1,0 +1,1 @@
+console.log('controllers/articles-controller2 required');
