@@ -1,7 +1,7 @@
 {
   "name": "exploding-file",
   "description": "For keeping path structures simple, except when they're not.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "author": "Adrian Edworthy <hello@adrianedworthy.com>",
   "contributors": [
@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/adrianedworthy/exploding-file",
   "main": "exploding-file.js",
-  "license": "ISC",
+  "license": "MIT",
   "scripts": {
     "test": "node test.js"
   },
